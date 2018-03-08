@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 AA
 BB
 CC
 DD
+=======
+A
+B
+C
+>>>>>>> parent of d5021e1... D
