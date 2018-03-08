@@ -1,4 +1,8 @@
 A
 B
+<<<<<<< HEAD
 C
 DD
+=======
+C
+>>>>>>> parent of d5021e1... D
