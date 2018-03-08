@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-A
-B
-<<<<<<< HEAD
-C
+AA
+BB
+CC
 DD
-=======
-C
->>>>>>> parent of d5021e1... D
-=======
-A
->>>>>>> parent of ffc3d46... B
